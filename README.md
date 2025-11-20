@@ -1,3 +1,3 @@
 # Mikrotik Hotspot
 
-Default Login Page Mikrotik Hotspot.
+Custom SEAMOLEC Login Page Mikrotik Hotspot.
