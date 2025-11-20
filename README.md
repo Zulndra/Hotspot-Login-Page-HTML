@@ -1,2 +1,3 @@
-# Hotspot-Login-Page-HTML
-Repository for Custom Mikrotik Hostpot Login Page using html for SEAMOLEC.
+# Mikrotik Hotspot
+
+Default Login Page Mikrotik Hotspot.
